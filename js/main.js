@@ -1,18 +1,24 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'Us7U6StjyAo', name: 'INTRODUCAO' },
-    { id: 'emtfheMpOkU', name: 'O que é Marketing Digital?' },
-    { id: 'DFUAdPd4T5Y', name: 'História do Marketing Digital' },
-    { id: 'iS6zXtQMdVo', name: 'Processos Essenciais do Marketing Digital' },
-    { id: 'nqER-CUXSRk', name: 'Conceitos de Marketeiro' },
-    { id: 'LWdNYIJ8xuk', name: 'Vantagens do Marketing Digital' },
-    { id: 'dmMzkbxXI2M', name: 'Marketing de CONTEÚDO e Planejamento Estratégico' },
-    { id: 'YixNTerNKIQ', name: 'Marketing de Performance' },
-    { id: 'eD6jwyoofD0', name: 'Estratégias Fundamentais' },
-    { id: 'sd-6PgCfWvA', name: 'Formatos e Canais de MÍDIA' },
-    { id: 'GcHhRHKgwg8', name: 'Análise e Relatórios' },
-    { id: 'j4v-Ltk-Gy8', name: 'Profissões Relacionadas' },
-    { id: 'rDxmzERZhes', name: 'Por onde COMEÇAR?' }
+    { id: 'wHzdONZWRVA', name: 'O que vamos aprender no curso?' },
+    { id: 'AA200YV4Odk', name: 'Como divulgar sem gastar dinheiro? ' },
+    { id: 'J88Ib54-T2I', name: 'Como Anunciar Grátis no Google Meu Negócio (Parte 1)' },
+    { id: '49yvKrZQ20U', name: 'Google Meu Negócio (Parte 2)' },
+    { id: '3k59X5WWNTg', name: 'O que é preciso para começar a anunciar?' },
+    { id: 'y4vQ7u6-TG4', name: 'Qual é o melhor lugar para anunciar?' },
+    { id: 'yUT6TOEPRk8', name: '20 dicas para divulgar seu site (Parte 1)' },
+    { id: 'brB_Rarv864', name: '20 dicas para divulgar seu site (Parte 2)' },
+    { id: 'vRFkC0SANsQ', name: 'Como criar uma Landing Page de sucesso' },
+    { id: 'Y7qXLlM0kio', name: 'Criando seu primeiro anúncio no Google Ads' },
+    { id: 'BfDZSScqnEI', name: 'Primeiro anúncio no Google Ads (parte 2)' },
+    { id: 'Y73zaESDlvI', name: 'Criando anúncio no modo especialista' },
+    { id: '1wrxZgC6Wn4', name: 'Qual anúncio é melhor, Smart ou Especialista?' },
+    { id: 'jvFHFen6sHU', name: 'Quais anúncios todo negócio deveria ter?' },
+    { id: 'zSghkVJQY08', name: 'Configurando tags de conversão Google Ads' },
+    { id: '4zBBJTHM9l8', name: 'Anúncios de Proteção de Marca' },
+    { id: 'tmIeyoT93ew', name: 'Anúncios de Atração' },
+    { id: 'rltuGyyZ6YQ', name: 'Campanha de Remarketing' },
+    { id: 'CTi6rPjIwZE', name: 'Campanha de Reconhecimento de Marca' }
 ];
 
 // Estado atual
